@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.BlogData-container {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+}
